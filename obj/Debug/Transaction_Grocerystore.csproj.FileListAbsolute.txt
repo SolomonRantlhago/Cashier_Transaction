@@ -1,0 +1,7 @@
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\bin\Debug\Transaction_Grocerystore.exe.config
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\bin\Debug\Transaction_Grocerystore.exe
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\bin\Debug\Transaction_Grocerystore.pdb
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\obj\Debug\Transaction_Grocerystore.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\obj\Debug\Transaction_Grocerystore.csproj.CoreCompileInputs.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\obj\Debug\Transaction_Grocerystore.exe
+C:\Users\2017496114\Desktop\My_Portfolio\Transaction_Grocerystore\Transaction_Grocerystore\obj\Debug\Transaction_Grocerystore.pdb
